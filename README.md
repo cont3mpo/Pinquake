@@ -10,4 +10,6 @@ pinquake_japon.sh - Notifica de los nuevos sismos en Japón (Japan Meteorologica
 
 
 Todos utilizan notify-send para las notificaciones en Escritorio Linux. La notificación queda en frente hasta que la cierres.
-Pueden agregarla a la partida del sistema (elementary OS: Configuración del sistema > Aplicaciones > Arranque > y agregar el ejecutable)
+Pueden agregarla a la partida del sistema (elementary OS: Configuración del sistema > Aplicaciones > Arranque > y agregar el ejecutable) 
+
+Dar permisos a ejecutables en terminal: chmod +x *.sh
