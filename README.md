@@ -5,6 +5,6 @@ Notificación de terremotos para Linux (Earthquakes notification for Linux)
 <li>pinquake_chile.sh - Notifica de los nuevos sismos que ocurren en Chile, sobre los 3.0 grados de magnitud (Centro Sismológico de la Universidad de Chile).</li>
 <li>pinquake_japon.sh - Notifica de los nuevos sismos en Japón (Japan Meteorological Agency).</li>
 </ul>
-Todos utilizan notify-send para las notificaciones en Escritorio Linux. La notificación queda en frente hasta que la cierres.
+Todos utilizan <code>notify-send</code> para las notificaciones en Linux. La notificación queda en frente hasta que la cierres.
 
 Dar permisos a ejecutables en terminal: chmod +x *.sh
